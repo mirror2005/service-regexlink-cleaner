@@ -3,7 +3,7 @@
 
 ### Uses
 
-- Remove https and t.me link regex
+- Remove https youtu.be and  t.me link regex
 - Remove / commands on Group. 
 - Clean Service mesage like Join and Left. 
 
