@@ -11,7 +11,7 @@ Client = Client(
 
 START_BUTTON = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('SOURCE CODE', url="https://github.com/SpamShield/PyroGramBot")
+        InlineKeyboardButton('SOURCE CODE', url="https://github.com/SpamShield/service-regexlink-cleaner")
         ]]
     ) 
 
