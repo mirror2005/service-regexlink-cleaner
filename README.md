@@ -3,7 +3,7 @@
 
 ### Uses
 
-- Remove https youtu.be and  t.me link regex
+- Remove some regex links. [links](https://github.com/SpamShield/service-regexlink-cleaner/blob/555360658aceda14e1045ade2c3fe459cf24f84c/service.py#L26) 
 - Remove / commands on Group. 
 - Clean Service mesage like Join and Left. 
 
